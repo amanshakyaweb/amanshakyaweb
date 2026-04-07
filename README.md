@@ -1,6 +1,6 @@
 # Hi there, I'm Aman! 👋
 
-### 🚀 Frontend Developer | React.js Specialist
+### 🚀 Frontend Developer |
 I am a passionate Frontend Developer focused on creating interactive, premium, and user-friendly web experiences. I love working with modern technologies and bringing designs to life with smooth animations.
 
 ---
