@@ -30,6 +30,7 @@ I am a passionate Frontend Developer focused on creating interactive, premium, a
 ### 📫 Let's Connect
 - 📧 Email: [amanshakya2716@gmail.com]
 - 💼 LinkedIn: [www.linkedin.com/in/amanshakyaweb]
-- 🌍 Portfolio: [https://amanportfolio.great-site.net/?i=1]
+- - 🌍 Portfolio: [https://amanshakyaweb.github.io]
+- 🌍 Portfolio: [https://amanportfolio.great-site.net]
 
 ---
